@@ -1,0 +1,7 @@
+{
+  "name": "NutriScan AI (Thai)",
+  "description": "AI-powered food analyzer and nutritionist that estimates calories and macros from food photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
